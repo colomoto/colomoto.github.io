@@ -1,0 +1,9 @@
+{
+"title": "SBML qualitative models: a model representation format and infrastructure to foster interactions between qualitative modelling formalisms and tools",
+"authors": [["Chaouiya", "Claudine"], ["B\u00e9renguier", "Duncan"], ["Keating", "Sarah M"], ["Naldi", "Aur\u00e9lien"], ["van Iersel", "Martijn P"], ["Rodriguez", "Nicolas"], ["Dr\u00e4ger", "Andreas"], ["B\u00fcchel", "Finja"], ["Cokelaer", "Thomas"], ["Kowal", "Bryan"], ["Wicks", "Benjamin"], ["Gon\u00e7alves", "Emanuel"], ["Dorier", "Julien"], ["Page", "Michel"], ["Monteiro", "Pedro T"], ["von Kamp", "Axel"], ["Xenarios", "Ioannis"], ["de Jong", "Hidde"], ["Hucka", "Michael"], ["Klamt", "Steffen"], ["Thieffry", "Denis"], ["Le Nov\u00e8re", "Nicolas"], ["Saez-Rodriguez", "Julio"], ["Helikar", "Tom\u00e1\u0161"]],
+"year": "2013",
+"journal": "BMC Syst Biol",
+"volume": "7",
+"pages": "135",
+"links": {"pmid": "24321545", "doi": "10.1186/1752-0509-7-135"}
+}
