@@ -1,0 +1,8 @@
+<!doctype html><html><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="ie=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><title>Priority classes &#183; CoLoMoTo</title><meta name=description content><link rel=stylesheet href=https://colomoto.github.io/style.main.css></head><body><header><div class=title><a href=https://colomoto.github.io><img src=https://colomoto.github.io/colomoto_banner_white.svg class=logo alt=CoLoMoTo></a></div><nav><ul><li><a href=/>Home</a></li><li><a href=/members/>Members</a></li><li><a href=/news/>News / Events</a></li></ul></nav></header><section><div class=content><h1>Priority classes</h1><p>Priority classes define a partition of components depending on their production and/or degradation delays.
+Each group of components is associated to a priority rank.
+These groups can themselves be considered synchronous or asynchronous.</p><p>The priority groups are evaluated in order.
+If none of the components in the group can be updated, then the next group is considered.
+Otherwise, all components in the group are considered (synchronously or asynchronously depending
+on the definition of the current group).
+Components belonging to groups with lower priority rank are ignored.</p><p>This updating is non-deterministic in the general case (each state can have several successors).
+It can be deterministic if all priority classes are synchronous or contain a single component.</p></div></section><ul><li><a href=/software/ginsim/>GINsim</a></li></ul></body></html>
