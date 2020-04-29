@@ -82,6 +82,14 @@ header {
         header nav ul li a:hover {
           color: #d9d9d9; }
 
+.content table {
+  border-collapse: collapse; }
+  .content table th, .content table td {
+    border: 1px solid;
+    padding: .2em; }
+  .content table th {
+    background: #aaa; }
+
 a:link, a:visited {
   font-weight: bold;
   text-decoration: none;
