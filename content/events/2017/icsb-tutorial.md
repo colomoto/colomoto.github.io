@@ -1,6 +1,6 @@
 ---
-title: "Tutorial at ICSB 2017"
-date: 2017/07/24 10:16:00
+title: Tutorial at ICSB 2017
+date: 2017-07-24
 summary: 
 ---
 

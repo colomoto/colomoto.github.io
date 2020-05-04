@@ -1,6 +1,6 @@
 ---
-title: "CoLoMoTo in Bioinformatics"
-date: 2015/05/02 23:22:22
+title: CoLoMoTo in Bioinformatics
+date: 2015-05-02
 summary: A letter to the editor presenting the consortium
 ---
 

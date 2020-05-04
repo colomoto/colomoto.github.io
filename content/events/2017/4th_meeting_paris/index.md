@@ -1,6 +1,6 @@
 ---
-title: "Fourth CoLoMoTo meeting (Paris, July 17-19 2017)"
-date: 2017/07/03 09:28:52
+title: Fourth CoLoMoTo meeting (Paris, July 17-19 2017)
+date: 2017-07-03
 summary: Toward more integration, at IBENS
 ---
 

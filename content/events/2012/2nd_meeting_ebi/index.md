@@ -1,6 +1,6 @@
 ---
-title: "Second CoLoMoTo meeting (Hinxton, March 2012)"
-date: 2012/04/01 21:37:11
+title: Second CoLoMoTo meeting (Hinxton, March 2012)
+date: 2012-04-01
 summary: Setting up the consortium on the EBI campus
 ---
 

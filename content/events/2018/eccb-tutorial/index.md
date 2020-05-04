@@ -1,6 +1,6 @@
 ---
-title: "Tutorial at ECCB 2018 "
-date: 2018/09/09 08:03:46
+title: Tutorial at ECCB 2018 
+date: 2018-09-09
 summary: Tutorial on sept. 9th, 2018 (Athens, Greece)
 ---
 
@@ -11,8 +11,7 @@ This workshop took place in Athens on September 09, before the main ECCB confere
 More details are available on the [tutorial page](http://eccb18.org/tutorial-8).
 
 
-Summary
-=======
+## Summary
 
 Logical modeling provides a computational approach to the visualization and analysis of the
 dynamics of biochemical and biological systems complementary to others such as reaction-based
@@ -36,20 +35,16 @@ and the [CoLoMoTo notebook](http://www.colomoto.org/notebook).
 
 
 
-Schedule and slides
-===================
+## Schedule and slides
 
 
-=======  =====================================  ==============================================================
-  Time   Speaker                                Title                                                         
-=======  =====================================  ==============================================================
-09:00                                           **Introduction** (`slides <ECCB_T8_introduction.pdf>`__)
-09:15    **Julio Saez-Rodriguez**               CellNetOpt (`slides <ECCB_T8_CNO.pdf>`__)
-11:00    **Tomas Helikar**                      Cell Collective (`slides <ECCB_T8_CellCollective.pdf>`__)
-12:30                                           **Lunch break**
-13:30    **Denis Thieffry & Aurélien Naldi**    GINsim (`slides <ECCB_T8_GINsim.pdf>`__)
-15:30    **Loïc Paulevé**                       The CoLoMoTo notebook (`slides <https://loicpauleve.name/slides/ECCB18-Tutorial/>`__)
-=======  =====================================  ==============================================================
-
+| Time   | Speaker                 |  Topic
+| ------ | ----------------------- | --------------------------------------------------------
+| 09:00  |                         | [Introduction](ECCB_T8_introduction.pdf)
+| 09:15  | J Saez-Rodriguez        | [CellNetOpt](ECCB_T8_CNO.pdf)
+| 11:00  | T Helikar               | [Cell Collective](ECCB_T8_CellCollective.pdf)
+| 12:30  |                         | *Lunch break*
+| 13:30  | D Thieffry, A N         | [GINsim](ECCB_T8_GINsim.pdf)
+| 15:30  | L Paulevé               | [The CoLoMoTo notebook](https://loicpauleve.name/slides/ECCB18-Tutorial)
 
 

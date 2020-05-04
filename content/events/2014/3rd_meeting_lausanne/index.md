@@ -1,6 +1,6 @@
 ---
-title: "Third CoLoMoTo meeting (Lausanne, April 2014)"
-date: 2014/04/19 21:37:11
+title: Third CoLoMoTo meeting (Lausanne, April 2014)
+date: 2014-04-19
 summary: Extending the reach, Center for Integrative Genomics
 ---
 

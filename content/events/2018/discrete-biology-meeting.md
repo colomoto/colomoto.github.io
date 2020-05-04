@@ -1,6 +1,6 @@
 ---
-title: "Meeting on Discrete Models and Formal Verification in Biology"
-date: 2018/07/30 11:30:00
+title: Meeting on Discrete Models and Formal Verification in Biology
+date: 2018-07-30 
 summary: Meeting about using cutting edge techniques from computer science. Murray Edwards College, Cambridge, August 29-31.
 ---
 

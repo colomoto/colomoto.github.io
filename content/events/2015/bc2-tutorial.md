@@ -1,6 +1,6 @@
 ---
-title: "Tutorial at BC2 2015"
-date: 2015/05/02 23:28:22
+title: Tutorial at BC2 2015
+date: 2015-05-02
 summary: 
 ---
 

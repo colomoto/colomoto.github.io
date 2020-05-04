@@ -1,6 +1,6 @@
 ---
-title: "Workshop at ECCB 2014"
-date: 2014/08/06 16:53:22
+title: Workshop at ECCB 2014
+date: 2014-08-06
 summary: 
 ---
 

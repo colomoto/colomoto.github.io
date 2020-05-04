@@ -1,6 +1,6 @@
 ---
-title: "Workshop and tutorial at ICSB 2015"
-date: 2015/11/26 12:15:00
+title: Workshop and tutorial at ICSB 2015
+date: 2015-11-26
 summary: 
 ---
 
