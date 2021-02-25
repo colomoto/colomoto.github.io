@@ -3,7 +3,7 @@ title: "DrugLogics Systems Medicine Group"
 subtitle: Norwegian University of Science and Technology (Trondheim, NO)        
 geolocation: 63.4195129, 10.3991712                                             
 summary: Logical modeling-based drug therapy predictions                        
-members: Martin Kuiper, Åsmund Flobak, Astrid Lagreid, Liv Thommesen            
+members: Martin Kuiper, Åsmund Flobak, Astrid Lægreid, Liv Thommesen            
 website: https://www.druglogics.eu                                              
 ---                                                                             
                                                                                 
