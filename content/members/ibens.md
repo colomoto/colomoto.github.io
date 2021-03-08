@@ -3,7 +3,7 @@ title: "Computational Systems Biology group"
 subtitle: IBENS - UMR ENS - CNRS 8197 - INSERM 1024 (Paris, FR)
 geolocation: 48.842177, 2.343683
 summary: Functional genomic data analysis and logical modelling of cellular signaling/regulatory networks involved in cell fate decisions
-members: Denis Thieffry, Aurélien Naldi, Céline Hernandez
+members: Denis Thieffry
 website: http://www.ibens.ens.fr/spip.php?article26
 ---
 
