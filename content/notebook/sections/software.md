@@ -9,6 +9,10 @@ style: hg3
   Python module [`actonet`](https://github.com/algorecell/pyActoNet)
 * [bioLQM](http://colomoto.org/biolqm/) -- Logical Qualitative Modelling toolkit<br/>
   Python module [`biolqm`](https://github.com/GINsim/GINsim-python)
+* [BNS](https://people.kth.se/~dubrova/BNS/user_manual.html) -- Identification of synchronous attractors<br>
+  Python module [`bns`](https://github.com/colomoto/bns-python)
+* [BooleanNet](https://github.com/ialbert/booleannet) -- Simulation of Boolean regulatory networks<br>
+  Python module [`boolean2`](https://github.com/ialbert/booleannet)
 * [boolSim](https://www.vital-it.ch/research/software/boolSim) -- Attractors and reachable sets in synchronous and asynchronous Boolean networks<br>
   Python module [`boolsim`](https://github.com/colomoto/boolSim-python)
 * [CABEAN](https://satoss.uni.lu/software/CABEAN/) -- A Software Tool for the Control of Asynchronous Boolean Networks<br/>
@@ -28,7 +32,7 @@ style: hg3
 * [NuSMV](http://nusmv.fbk.eu) -- Symbolic model-checker<br/>
   Python module [`nusmv`](https://github.com/colomoto/colomoto-jupyter)
 * [Pint](https://loicpauleve.name/pint) -- Static analyzer for dynamics of Automata Networks<br/>
-  Python module [`pypint`](https://github.com/pauleve/pint)
+  Python module [`pypint`](https://github.com/pauleve/pypint)
 * [PyBoolNet](https://github.com/hklarner/PyBoolNet) -- Generation, modification and analysis of Boolean networks<br>
   Python module [`PyBoolNet`](https://github.com/hklarner/PyBoolNet)
 * [R-BoolNet](https://cran.r-project.org/package=BoolNet) -- Analysis and reconstruction of Boolean networks dynamics<br/>
