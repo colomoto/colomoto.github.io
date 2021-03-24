@@ -2,8 +2,15 @@
 title: "Pint"
 summary: Static analyzer for transient dynamics of automata networks
 website: https://loicpauleve.name/pint/
-formats: 
+members:
+- labri
+formats:
+methods:
+- asynchronous
+- stablestates
+- stg
 features: 
+- multivalued
 ---
 
 
@@ -14,4 +21,6 @@ and mutations for reachability, and model reduction preserving transient dynamic
 
 Pint is distributed with command line tools, as well as a Python module pypint.
 This later provides a seamless integration with the Jupyter IPython notebook web interface.
+
+More information at https://loicpauleve.name/pint.
 
