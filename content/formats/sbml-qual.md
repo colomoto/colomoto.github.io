@@ -7,7 +7,7 @@ features: multivalued, documentation, layout#extension
 formats: sbml-qual
 ---
 
-[SBML qual](http://sbml.org/Documents/Specifications/SBML_Level_3/Packages/Qualitative_Models_%28qual%29)
+[SBML qual](https://sbml.org/documents/specifications/level-3/version-1/qual)
 is an extension of the [Systems Biology Markup Language (SBML)](http://sbml.org) Level 3 standard,
 designed for the representation of multivalued qualitative models of biological networks.
 The first SBML qual proposal in 2008 led to the creation of the CoLoMoTo consortium.

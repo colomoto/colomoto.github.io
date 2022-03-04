@@ -1,6 +1,11 @@
 {
 "title": "PyBoolNet - A Python Package for the Generation, Analysis and Visualisation of Boolean networks",
 "authors": [["Klarner", "H"], ["Streck", "A"], ["Siebert", "H"]],
-"year": "under review",
-"links": {}
+"year": "2017",
+"journal": "Bioinformatics",
+"volume": "33",
+"pages": "770-772",
+"links": {"doi": "10.1093/bioinformatics/btw682"},
+"type": "article",
+"tags": ["OpenAccess"]
 }

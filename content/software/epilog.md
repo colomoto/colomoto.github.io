@@ -15,8 +15,6 @@ It is also capable of integrating as input components of each cell, stable envir
 The software provides a graphical user interface representing the hexagonal grid of cells to facilitate the definition of initial conditions,
 definition of perturbations, and visualization of the simulation. The latter is performed synchronously with respect to all components of all cells.
 
-It relies on the `bioLQM <https://github.com/colomoto/bioLQM>`_ library to import multi-valued logical models from SBML qual and compute the successor states.
-
-
+It relies on [bioLQM](../biolqm) to import multi-valued logical models from SBML qual and compute the successor states.
 
 
