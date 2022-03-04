@@ -31,10 +31,12 @@ See the [list of updating semantics](updatings).
 # Simulations
 
 Simulations provide a natural way to evaluate the dynamical behaviour of a qualitative model by defining an
-initial state and applying the update functions. Several types of simulations are available, depending on the
-selected updating semantics 
+initial state and applying the update functions.
 
-See the [list of simulation methods](simulation).
+**Deterministic**: [Traces](simulation/trace) or [continuous view](simulation/continuous).
+
+**Non-deterministic**: [State Transition graph](simulation/stg) or [stochastic sampling](simulation/stochastic).
+
 {{</box>}}
 
 {{<box class="feat">}}
