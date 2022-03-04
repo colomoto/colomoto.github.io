@@ -1,11 +1,7 @@
 ---
 title: "Model representation formats"
 summary: File formats used to represent logical models
-menu: 
-    home:
-        name: "Formats"
 ---
-
 
 We encourage the use of the [SBML qual exchange format](sbml-qual) to share models to a wide audience.
 However, many alternative formats exist for historical or technical reasons.

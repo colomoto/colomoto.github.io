@@ -2,10 +2,6 @@
 title: "The CoLoMoTo Interactive Notebook"
 hidetitle: true
 date: 2020/12/02 12:58
-menu: 
-    nav:
-        name: "Notebook"
-        weight: 5
 extrasections: sections
 ---
 

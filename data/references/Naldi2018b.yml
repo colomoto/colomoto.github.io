@@ -1,0 +1,36 @@
+authors:
+- family: Naldi
+  given: "Aur\xE9lien"
+- family: Hernandez
+  given: "C\xE9line"
+- family: Levy
+  given: Nicolas
+- family: Stoll
+  given: Gautier
+- family: Monteiro
+  given: Pedro T.
+- family: Chaouiya
+  given: Claudine
+- family: Helikar
+  given: "Tom\xE1\u0161"
+- family: Zinovyev
+  given: Andrei
+- family: Calzone
+  given: Laurence
+- family: Cohen-Boulakia
+  given: Sarah
+- family: Thieffry
+  given: Denis
+- family: "Paulev\xE9"
+  given: "Lo\xEFc"
+journal: Frontiers in Physiology
+tags: [ 'OpenAccess' ]
+links:
+  doi: 10.3389/fphys.2018.00680
+pages: '680'
+title: 'The CoLoMoTo Interactive Notebook: Accessible and Reproducible Computational
+  Analyses for Qualitative Biological Networks'
+type: article
+domain: software
+volume: '9'
+year: '2018'

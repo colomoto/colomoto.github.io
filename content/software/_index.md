@@ -2,7 +2,6 @@
 title: "Software tools"
 date: 2014/04/19 21:37
 summary: Software tools for logical modelling
-menu: home
 ---
 
 

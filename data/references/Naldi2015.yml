@@ -1,0 +1,32 @@
+authors:
+- family: Naldi
+  given: "Aur\xE9lien"
+- family: Monteiro
+  given: Pedro T.
+- family: "M\xFCssel"
+  given: Christoph
+- family: Consortium for Logical Models and Tools
+  given: the
+- family: Kestler
+  given: Hans A.
+- family: Thieffry
+  given: Denis
+- family: Xenarios
+  given: Ioannis
+- family: Saez-Rodriguez
+  given: Julio
+- family: Helikar
+  given: Tomas
+- family: Chaouiya
+  given: Claudine
+journal: Bioinformatics
+tags: [ 'OpenAccess' ]
+links:
+  doi: 10.1093/bioinformatics/btv013
+  pmid: '25619997'
+number: '7'
+pages: 1154-1159
+title: Cooperative development of logical modelling standards and tools with CoLoMoTo
+type: article
+volume: '31'
+year: '2015'
