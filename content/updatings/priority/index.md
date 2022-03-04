@@ -18,3 +18,4 @@ Components belonging to groups with lower priority rank are ignored.
 This updating is non-deterministic in the general case (each state can have several successors).
 It can be deterministic if all priority classes are synchronous or contain a single component.
 
+{{< ref Faure2006 >}}

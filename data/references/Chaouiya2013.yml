@@ -1,0 +1,60 @@
+authors:
+- family: Chaouiya
+  given: Claudine
+- family: "B\xE9renguier"
+  given: Duncan
+- family: Keating
+  given: Sarah M
+- family: Naldi
+  given: "Aur\xE9lien"
+- family: van Iersel
+  given: Martijn P
+- family: Rodriguez
+  given: Nicolas
+- family: "Dr\xE4ger"
+  given: Andreas
+- family: "B\xFCchel"
+  given: Finja
+- family: Cokelaer
+  given: Thomas
+- family: Kowal
+  given: Bryan
+- family: Wicks
+  given: Benjamin
+- family: "Gon\xE7alves"
+  given: Emanuel
+- family: Dorier
+  given: Julien
+- family: Page
+  given: Michel
+- family: Monteiro
+  given: Pedro T
+- family: Kamp
+  given: Axel von
+- family: Xenarios
+  given: Ioannis
+- family: de Jong
+  given: Hidde
+- family: Hucka
+  given: Michael
+- family: Klamt
+  given: Steffen
+- family: Thieffry
+  given: Denis
+- family: "Nov\xE8re"
+  given: Nicolas Le
+- family: Saez-Rodriguez
+  given: Julio
+- family: Helikar
+  given: "Tom\xE1\u0161"
+issue: '1'
+journal: BMC Systems Biology
+links:
+  doi: 10.1186/1752-0509-7-135
+pages: '135'
+title: 'SBML qualitative models: a model representation format and infrastructure
+  to foster interactions between qualitative modelling formalisms and tools'
+type: article
+tags: [ 'OpenAccess' ]
+volume: '7'
+year: '2013'

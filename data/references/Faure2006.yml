@@ -1,0 +1,20 @@
+authors:
+- family: Faure
+  given: A.
+- family: Naldi
+  given: A.
+- family: Chaouiya
+  given: C.
+- family: Thieffry
+  given: D.
+issue: '14'
+journal: Bioinformatics
+links:
+  doi: 10.1093/bioinformatics/btl210
+pages: e124--e131
+title: Dynamical analysis of a generic Boolean model for the control of the mammalian
+  cell cycle
+tags: [ 'OpenAccess' ]
+type: article
+volume: '22'
+year: '2006'

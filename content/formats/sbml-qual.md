@@ -136,4 +136,6 @@ using [CellNOpt](http://www.cellnopt.org), train this scaffold network on data t
 </sbml>
 ```
 
+{{< ref Chaouiya2013 >}}
+{{< ref Keating2020 >}}
 

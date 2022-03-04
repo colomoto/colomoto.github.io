@@ -1,0 +1,118 @@
+authors:
+- family: Keating
+  given: Sarah M
+- family: Waltemath
+  given: Dagmar
+- family: "K\xF6nig"
+  given: Matthias
+- family: Zhang
+  given: Fengkai
+- family: "Dr\xE4ger"
+  given: Andreas
+- family: Chaouiya
+  given: Claudine
+- family: Bergmann
+  given: Frank T
+- family: Finney
+  given: Andrew
+- family: Gillespie
+  given: Colin S
+- family: Helikar
+  given: "Tom\xE1\u0161"
+- family: Hoops
+  given: Stefan
+- family: Malik-Sheriff
+  given: Rahuman S
+- family: Moodie
+  given: Stuart L
+- family: Moraru
+  given: Ion I
+- family: Myers
+  given: Chris J
+- family: Naldi
+  given: "Aur\xE9lien"
+- family: Olivier
+  given: Brett G
+- family: Sahle
+  given: Sven
+- family: Schaff
+  given: James C
+- family: Smith
+  given: Lucian P
+- family: Swat
+  given: Maciej J
+- family: Thieffry
+  given: Denis
+- family: Watanabe
+  given: Leandro
+- family: Wilkinson
+  given: Darren J
+- family: Blinov
+  given: Michael L
+- family: Begley
+  given: Kimberly
+- family: Faeder
+  given: James R
+- family: "G\xF3mez"
+  given: Harold F
+- family: Hamm
+  given: Thomas M
+- family: Inagaki
+  given: Yuichiro
+- family: Liebermeister
+  given: Wolfram
+- family: Lister
+  given: Allyson L
+- family: Lucio
+  given: Daniel
+- family: Mjolsness
+  given: Eric
+- family: Proctor
+  given: Carole J
+- family: Raman
+  given: Karthik
+- family: Rodriguez
+  given: Nicolas
+- family: Shaffer
+  given: Clifford A
+- family: Shapiro
+  given: Bruce E
+- family: Stelling
+  given: Joerg
+- family: Swainston
+  given: Neil
+- family: Tanimura
+  given: Naoki
+- family: Wagner
+  given: John
+- family: Meier-Schellersheim
+  given: Martin
+- family: Sauro
+  given: Herbert M
+- family: Palsson
+  given: Bernhard
+- family: Bolouri
+  given: Hamid
+- family: Kitano
+  given: Hiroaki
+- family: Funahashi
+  given: Akira
+- family: Hermjakob
+  given: Henning
+- family: Doyle
+  given: John C
+- family: Hucka
+  given: Michael
+- family: SBML Level 3 Community members
+  given: ''
+issue: '8'
+journal: Mol. Syst. Biol.
+links:
+  doi: 10.15252/Msb.20199110
+  pmid: '32845085'
+pages: e9110
+title: 'SBML Level 3: an extensible format for the exchange and reuse of biological models'
+tags: [ 'OpenAccess' ]
+type: article
+volume: '16'
+year: '2020'
